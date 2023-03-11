@@ -400,7 +400,7 @@ Agora, nosso modelo é muito mais flexível, extensível e os clientes não prec
 
 O princípio da inversão da dependência declara que nossas classes devem depender de interfaces ou de classes abstratas em vez de classes concretas e de funções.
 
-Neste artigo (2000, texto em inglês), Uncle Bob resume esse princípio da seguinte maneira:
+[Neste artigo](https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf)(2000, texto em inglês), Uncle Bob resume esse princípio da seguinte maneira:
 
 > "Se o princípio de aberto/fechado declara o objetivo da arquitetura orientada a objetos, o princípio de inversão da dependência declara seu mecanismo principal".
 
